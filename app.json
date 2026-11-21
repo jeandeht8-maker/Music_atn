@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Music ATN",
+    "slug": "music-atn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jeandeht8maker.musicatn"
+    },
+    "android": {
+      "package": "com.jeandeht8maker.musicatn"
+    }
+  }
+}
